@@ -28,10 +28,10 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      inkscape:zoom="0.10011574"
-     inkscape:cx="1937.7572"
-     inkscape:cy="2462.1503"
-     inkscape:window-width="1858"
-     inkscape:window-height="1057"
+     inkscape:cx="1568.185"
+     inkscape:cy="2621.9653"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -619,7 +619,7 @@
        transform="matrix(2.6422738,0,0,2.5176184,-431.10659,643.18237)" />
     <g
        id="g113"
-       style="display:inline;stroke-width:0.356775"
+       style="display:none;stroke-width:0.356775"
        inkscape:label="Mulher tec2"
        transform="matrix(2.8635179,0,0,2.7435528,2506.8752,4196.176)">
       <ellipse
@@ -1055,7 +1055,7 @@
        id="g55"
        style="display:inline;stroke-width:0.356663"
        inkscape:label="Mulher tec"
-       transform="matrix(2.8636958,0,0,2.7450934,-494.22871,700.01509)">
+       transform="matrix(2.8636958,0,0,2.7450934,-474.25183,1079.5758)">
       <ellipse
          style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:3.96819;paint-order:stroke fill markers"
          id="ellipse11"
@@ -1495,40 +1495,40 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:381.832px;font-family:'Cyborg Punk';-inkscape-font-specification:'Cyborg Punk, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.19802;stroke-dasharray:none;stroke-opacity:1"
-       x="1109.1202"
-       y="646.90668"
+       x="1121.4811"
+       y="469.33533"
        id="text1"
-       transform="scale(0.80807655,1.2375065)"
+       transform="scale(0.80807656,1.2375065)"
        inkscape:label="Logo"><tspan
          sodipodi:role="line"
          id="tspan1"
-         x="1109.1202"
-         y="646.90668"
+         x="1121.4811"
+         y="469.33533"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:381.832px;font-family:'Cyborg Punk';-inkscape-font-specification:'Cyborg Punk, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.19802;stroke-dasharray:none;stroke-opacity:1">IF LadIEs</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:287.348px;font-family:'Cyborg Punk';-inkscape-font-specification:'Cyborg Punk, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.19802;stroke-dasharray:none;stroke-opacity:1"
-       x="992.6427"
-       y="3994.9548"
+       x="1368.0198"
+       y="976.72095"
        id="text2"
        transform="scale(0.90470874,1.1053281)"
        inkscape:label="MeetUp"><tspan
          sodipodi:role="line"
          id="tspan2"
-         x="992.6427"
-         y="3994.9548"
+         x="1368.0198"
+         y="976.72095"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:287.348px;font-family:'Cyborg Punk';-inkscape-font-specification:'Cyborg Punk, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.19802;stroke-dasharray:none;stroke-opacity:1">MeeTUP</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:586.134px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:55.196;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:2.7"
-       x="10.938784"
-       y="862.25067"
+       style="font-size:695.581px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:65.5026;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:2.7"
+       x="85.979187"
+       y="1413.3987"
        id="text3"
-       transform="scale(1.0902775,0.91719768)"><tspan
+       transform="scale(1.0434577,0.95835222)"><tspan
          sodipodi:role="line"
          id="tspan3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:586.134px;font-family:'Cyborg Punk';-inkscape-font-specification:'Cyborg Punk, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:55.196"
-         x="10.938784"
-         y="862.25067">3º</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:695.581px;font-family:'Cyborg Punk';-inkscape-font-specification:'Cyborg Punk, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:65.5026"
+         x="85.979187"
+         y="1413.3987">3º</tspan></text>
   </g>
 </svg>
