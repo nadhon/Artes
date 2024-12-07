@@ -187,3 +187,31 @@ section p {
   gap: 12px;
   border-radius: 8px;
 }
+.square{
+  width: 100px;
+  height: 100px;
+  background-color: #000;
+  border-radius: 150px;
+}
+.square2{
+  width: 100px;
+  height: 100px;
+  background-color: #40c9ff;
+  border-radius: 15px;
+}
+.square3{
+  width: 100px;
+  height: 100px;
+  background-color: chartreuse;
+  border-radius: 150px;
+}
+.container2 {
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(250px,1fr));
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  padding: 20px;
+  width: 100%;
+  height: 100%;
+}
